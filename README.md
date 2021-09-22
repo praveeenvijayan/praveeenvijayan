@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python Django**
 
--  🌱 Second Github Account  <a href="https://github.com/pnpreps" target="_blank"> **pnpreps** </a>
+-  <img src="https://img.icons8.com/material-outlined/24/000000/github.png"/> Second Github Account  <a href="https://github.com/pnpreps" target="_blank"> **pnpreps** </a>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
