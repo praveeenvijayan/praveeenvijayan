@@ -35,7 +35,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/praveen-pkd//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/praveeenvijayan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/praveeennair1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/prav24x7/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
